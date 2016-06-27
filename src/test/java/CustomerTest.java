@@ -9,7 +9,7 @@ public class CustomerTest {
             "Amount owed is 15.5\n" +
             "You earned 4 frequent rental points";
     @Test
-    public void test() {
+    public void testStatement() {
         Assert.assertEquals(STATEMENT, mockCustomer().statement());
     }
 
