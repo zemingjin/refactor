@@ -55,7 +55,7 @@ class Customer {
         }
         //add footer lines
         result += "Amount owed is " + String.valueOf(totalAmount) + "\n";
-        result += "You earned " + String.valueOf(frequentRenterPoints) + "frequent rental points";
+        result += "You earned " + String.valueOf(frequentRenterPoints) + " frequent rental points";
         return result;
     }
 }
