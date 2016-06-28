@@ -1,4 +1,3 @@
-import java.util.Enumeration;
 import java.util.Vector;
 import java.util.stream.Collectors;
 
@@ -20,12 +19,12 @@ class Customer {
 
     public String statement() {
         return "Rental Record for " + getName() + "\n" +
-                getRentalRecord() +
+                getRentalRecords() +
                 "Amount owed is " + String.valueOf(getTotalAmount()) + "\n" +
                 "You earned " + getTotalFrequentRenterPoints() + " frequent rental points";
     }
 
-    private String getRentalRecord() {
+    private String getRentalRecords() {
         return _rentals.stream()
                 .map(r -> "\t" + r.getMovie().getTitle() + "\t" + r.getRentalCharge() + "\n")
                 .collect(Collectors.joining());
