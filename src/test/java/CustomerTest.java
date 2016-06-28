@@ -11,6 +11,7 @@ public class CustomerTest {
     @Test
     public void testStatement() {
         Assert.assertEquals(STATEMENT, mockCustomer().statement());
+        System.out.println(mockCustomer().statement());
     }
 
     private Customer mockCustomer() {
