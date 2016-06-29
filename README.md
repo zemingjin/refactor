@@ -35,7 +35,7 @@ Good programmers write code that humans can understand. "
 
 ##Preparation - reset to the original state
 
-**git reset a47f009 --hard**
+**git reset d09b852 --hard**
 
 ##References
 [Refactoring: Improving the Design of Existing Code by Martin Fowler]
