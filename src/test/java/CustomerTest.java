@@ -6,7 +6,7 @@ public class CustomerTest {
             "\tAAA\t2.0\n" +
             "\tBBB\t9.0\n" +
             "\tCCC\t4.5\n" +
-            "Amount owed is 15.5\n" +
+            "Amount owned is 15.5\n" +
             "You earned 4 frequent rental points";
     @Test
     public void testStatement() {
