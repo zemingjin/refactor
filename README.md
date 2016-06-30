@@ -6,7 +6,7 @@ easier **to understand and to modify** without changing its **observable behavio
 1. Evolving of software - routine maintenance to remain healthy.
 2. Economics - Clean code allows fast deliveries.
 3. Professionalism - "Any fool can write code that a computer can understand. 
-Good programmers write code that humans can understand. "
+Good programmers write code that humans can understand."
 
 ##When
 1. Adding new feature: R->G->G - separation of implementation and refactoring.
