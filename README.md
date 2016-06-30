@@ -8,7 +8,7 @@ easier **to understand and to modify** without changing its **observable behavio
 3. Professionalism - "Any fool can write code that a computer can understand. 
 Good programmers write code that humans can understand."
 
-##When
+##When - if code smells, refactor it.
 1. Adding new feature: R->G->G - separation of implementation and refactoring.
 2. "Comprehension Refactoring" - Code that is hard to understand - refactoring should start after understanding was reached
 3. "Preparatory Refactoring" - Current design is hard to extend.
