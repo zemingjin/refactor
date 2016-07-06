@@ -26,7 +26,7 @@ Good programmers write code that humans can understand."
 1. Databases
 2. Interfaces
 3. Rewrite
-4. Close to a deadline - dept management, dept+ -> interest+ -> dept+...
+4. Close to a deadline - debt management, debt+ -> interest+ -> debt+...
 
 ##Preparation - reset to the original state
 
@@ -37,5 +37,6 @@ Good programmers write code that humans can understand."
 (https://www.csie.ntu.edu.tw/~r95004/Refactoring_improving_the_design_of_existing_code.pdf)
 [Naming: Good naming is a process, not a single step]
 (http://arlobelshee.com/good-naming-is-a-process-not-a-single-step/)
+[IntelliJ: Refactoring](https://www.jetbrains.com/help/idea/2016.1/move-refactorings.html)
 
 
