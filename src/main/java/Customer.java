@@ -1,4 +1,3 @@
-import java.util.Enumeration;
 import java.util.Vector;
 import java.util.stream.Collectors;
 
@@ -19,7 +18,9 @@ class Customer {
     }
 
     public String statement() {
-        return getHeaderLine() + getRentalRecords() + getFooterLines();
+        return getHeaderLine() +
+                getRentalRecords() +
+                getFooterLines();
     }
 
     private String getHeaderLine() {
