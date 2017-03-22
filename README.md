@@ -9,7 +9,7 @@ easier **to understand and to modify** without changing its **observable behavio
 Good programmers write code that humans can understand."
 
 ##When - if code smells, refactor it.
-1. Adding new feature: R->G->G - separation of implementation and refactoring.
+1. Adding new feature: separation of implementation and refactoring.
 2. "Comprehension Refactoring" - Code that is hard to understand - refactoring should start after understanding was reached
 3. "Preparatory Refactoring" - Current design is hard to extend.
 4. "Litter-Pickup Refactoring".  Many small changes could result much better code.
