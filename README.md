@@ -12,7 +12,7 @@ Good programmers write code that humans can understand."
 1. Adding new feature: separation of implementation and refactoring.
 2. "Comprehension Refactoring" - Code that is hard to understand - refactoring should start after understanding was reached
 3. "Preparatory Refactoring" - Current design is hard to extend.
-4. "Litter-Pickup Refactoring".  Many small changes could result much better code.
+4. "Litter-Pickup Refactoring".  Many small changes could result much better code - could be done in code review.
 5. "Planned Refactoring" - no need in perfect world where refactoring is a continue process.
 
 ##How
