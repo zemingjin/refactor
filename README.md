@@ -33,10 +33,10 @@ Good programmers write code that humans can understand."
 **git reset 3801738 --hard**
 
 ##References
-[Refactoring: Improving the Design of Existing Code by Martin Fowler]
+1. [Refactoring: Improving the Design of Existing Code by Martin Fowler]
 (https://www.csie.ntu.edu.tw/~r95004/Refactoring_improving_the_design_of_existing_code.pdf)
-[Naming: Good naming is a process, not a single step]
+2. [Naming: Good naming is a process, not a single step]
 (http://arlobelshee.com/good-naming-is-a-process-not-a-single-step/)
-[IntelliJ: Refactoring](https://www.jetbrains.com/help/idea/2016.1/refactoring-source-code.html)
+3. [IntelliJ: Refactoring](https://www.jetbrains.com/help/idea/2016.1/refactoring-source-code.html)
 
 
