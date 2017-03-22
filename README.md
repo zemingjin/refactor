@@ -28,15 +28,18 @@ Good programmers write code that humans can understand."
 3. Rewrite
 4. Close to a deadline - debt management, debt+ -> interest+ -> debt+...
 
-##Preparation - reset to the original state
-
-**git reset 3801738 --hard**
-
 ##References
 1. [Refactoring: Improving the Design of Existing Code by Martin Fowler]
 (https://www.csie.ntu.edu.tw/~r95004/Refactoring_improving_the_design_of_existing_code.pdf)
 2. [Naming: Good naming is a process, not a single step]
 (http://arlobelshee.com/good-naming-is-a-process-not-a-single-step/)
 3. [IntelliJ: Refactoring](https://www.jetbrains.com/help/idea/2016.1/refactoring-source-code.html)
+ 
+#Refactoring Exercise
+##Preparation - reset to the original state
+
+**git reset 3801738 --hard**
+
+
 
 
