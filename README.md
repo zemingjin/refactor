@@ -4,7 +4,7 @@ easier **to understand and to modify** without changing its **observable behavio
 
 ##Why
 1. Evolving of software - routine maintenance to remain healthy.
-2. Economics - Clean code allows fast deliveries - **60-70%** of time in reading.
+2. Economics - Clean/easy to understand code allows fast deliveries - **60-70%** of time in reading.
 3. Professionalism - "Any fool can write code that a computer can understand.
 Good programmers write code that humans can understand."
 
@@ -25,8 +25,8 @@ Good programmers write code that humans can understand."
 ##When Not
 1. Databases
 2. Interfaces
-3. Rewrite
-4. Close to a deadline - debt management, debt+ -> interest+ -> debt+...
+3. Rewrite - code so messy that a rewrite would be considered cost effective.
+4. Close to a deadline
 
 ##References
 1. [Refactoring: Improving the Design of Existing Code by Martin Fowler]
